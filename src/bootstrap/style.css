@@ -1,0 +1,10 @@
+body
+{ 
+    /*background-color: blueviolet;*/
+    background-image: url("images/fond1.jpg");
+        
+    /*opacity:0.2;*/
+    background-repeat:no-repeat;
+    background-attachment: scroll;
+    background-position: 10px 70px;   
+}
